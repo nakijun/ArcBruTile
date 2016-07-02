@@ -1,0 +1,25 @@
+Air Quality Index,https://dl.dropboxusercontent.com/u/9984329/ArcBruTile/Services/AirQualityIndex/aqi.xml,1.0.0
+CartoDB,http://dl.dropboxusercontent.com/u/9984329/ArcBruTile/Services/cartodb/cartodb.xml,1.0.0
+IsHowChina, http://dl.dropboxusercontent.com/u/9984329/ArcBruTile/Services/ishowchina/ishowchina.xml,1.0.0
+Klokan Technologies,http://dl.dropboxusercontent.com/u/9984329/ArcBruTile/Services/klokantech/klokantech.xml,1.0.0,
+Kosmosnimki,http://dl.dropboxusercontent.com/u/9984329/ArcBruTile/Services/kosmosnimki/kosmosnimki.xml,1.0.0,
+Nationaal Georegister (Dutch),http://geodata.nationaalgeoregister.nl/tms/1.0.0,1.0.0,
+MapBox,http://dl.dropboxusercontent.com/u/9984329/ArcBruTile/Services/Mapbox/Mapbox.xml,1.0.0,
+MapsPast,http://dl.dropboxusercontent.com/u/9984329/ArcBruTile/Services/mapspast/mapspast.xml,1.0.0,
+MapQuest,http://dl.dropboxusercontent.com/u/9984329/ArcBruTile/Services/Mapquest/MapQuest.xml,1.0.0,
+National Library of Scotland,http://dl.dropboxusercontent.com/u/9984329/ArcBruTile/Services/nls/nls.xml,1.0.0,
+OpenRailwayMap, http://dl.dropboxusercontent.com/u/9984329/ArcBruTile/Services/OpenRailwayMap/openrailwaymap.xml,1.0.0,
+OpenSeaMap, http://dl.dropboxusercontent.com/u/9984329/ArcBruTile/Services/Openseamap/openseamap.xml,1.0.0,
+OpenWeatherMap, http://dl.dropboxusercontent.com/u/9984329/ArcBruTile/Services/Openweathermap/openweathermap.xml,1.0.0,
+OpenStreetMap,http://dl.dropboxusercontent.com/u/9984329/ArcBruTile/Services/osm/osm.xml,1.0.0,
+Olleh,http://dl.dropboxusercontent.com/u/9984329/ArcBruTile/Services/olleh/olleh.xml,1.0.0,
+OSM2Vectortiles, http://dl.dropboxusercontent.com/u/9984329/ArcBruTile/Services/osm2vectortiles/osm2vectortiles.xml,1.0.0,
+Stamen,http://dl.dropboxusercontent.com/u/9984329/ArcBruTile/Services/Stamen/Stamen.xml,1.0.0,
+TomTom,http://dl.dropboxusercontent.com/u/9984329/ArcBruTile/Services/tomtom/tomtom.xml,1.0.0,
+Richland,http://dl.dropboxusercontent.com/u/9984329/ArcBruTile/Services/Richland/Richland.xml,1.0.0,
+Sputnik,https://dl.dropboxusercontent.com/u/9984329/ArcBruTile/Services/sputnik/sputnik.xml,1.0.0
+Strava,https://dl.dropboxusercontent.com/u/9984329/ArcBruTile/Services/Strava/Strava.xml,1.0.0
+Tianditu,http://dl.dropboxusercontent.com/u/9984329/ArcBruTile/Services/tianditu/tianditu.xml,1.0.0
+ThunderForest,http://dl.dropboxusercontent.com/u/9984329/ArcBruTile/Services/thunderforest/thunderforest.xml,1.0.0
+U.S. National Park Service,http://www.nps.gov/npmap/arcbrutile/tilesets.xml,1.0.0
+VWorld,http://dl.dropboxusercontent.com/u/9984329/ArcBruTile/Services/vworld/vworld.xml,1.0.0
